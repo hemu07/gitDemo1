@@ -3,3 +3,6 @@ this is 2nd msg
 this is 3rd & final msg
 4th msg
 hii
+git remote add origin https://github.com/hemu07/tsl-968-postman.git
+git branch -M main
+git push -u origin main
